@@ -1,0 +1,7 @@
+colorscheme lucius
+set guifont=Monaco\ 11
+imap <C-S> <C-C>:w<CR>
+set display=lastline
+let g:ctrlp_working_path_mode = ''
+set t_Co=256
+

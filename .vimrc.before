@@ -1,0 +1,2 @@
+call janus#disable_plugin('vroom')
+call janus#disable_plugin('fugitive')
